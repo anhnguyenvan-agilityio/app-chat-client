@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/app-chat-client/static/css/main.bf9eaee5.chunk.css",
-    "main.js": "/app-chat-client/static/js/main.f6baada8.chunk.js",
-    "main.js.map": "/app-chat-client/static/js/main.f6baada8.chunk.js.map",
+    "main.js": "/app-chat-client/static/js/main.64309e69.chunk.js",
+    "main.js.map": "/app-chat-client/static/js/main.64309e69.chunk.js.map",
     "runtime~main.js": "/app-chat-client/static/js/runtime~main.d90b49f5.js",
     "runtime~main.js.map": "/app-chat-client/static/js/runtime~main.d90b49f5.js.map",
     "static/js/2.ee951d30.chunk.js": "/app-chat-client/static/js/2.ee951d30.chunk.js",
     "static/js/2.ee951d30.chunk.js.map": "/app-chat-client/static/js/2.ee951d30.chunk.js.map",
     "index.html": "/app-chat-client/index.html",
-    "precache-manifest.9296707ac11c759c11c0f44bfe0114d1.js": "/app-chat-client/precache-manifest.9296707ac11c759c11c0f44bfe0114d1.js",
+    "precache-manifest.3fe914b1bbe351e1574b5a3539b025bf.js": "/app-chat-client/precache-manifest.3fe914b1bbe351e1574b5a3539b025bf.js",
     "service-worker.js": "/app-chat-client/service-worker.js",
     "static/css/main.bf9eaee5.chunk.css.map": "/app-chat-client/static/css/main.bf9eaee5.chunk.css.map"
   }
