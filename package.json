@@ -1,8 +1,8 @@
 {
-  "name": "chat-app-client",
+  "name": "app-chat-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anhnguyenvan.github.io/chat-app-client",
+  "homepage": "https://anhnguyenvan.github.io/app-chat-client",
   "dependencies": {
     "apollo-boost": "^0.4.0",
     "apollo-cache-inmemory": "^1.6.0",
@@ -23,11 +23,12 @@
     "subscriptions-transport-ws": "^0.9.16"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"

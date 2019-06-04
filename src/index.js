@@ -26,7 +26,7 @@ const httpLink = createHttpLink({
 
 const wsLink = new WebSocketLink({
   // uri: `ws://172.16.126.52:4000/graphql`,
-  uri: "ws://demo-server-chat-app.herokuapp.com/graphql",
+  uri: "wss://demo-server-chat-app.herokuapp.com/graphql",
   options: {
     reconnect: true
   }
